@@ -1,5 +1,4 @@
 /*
- * Tema 2 ASC
  * 2021 Spring
  * !!! Do not modify this file !!!
  */
